@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include <Windows.h>
 #include <stdio.h>
-
+//Ho creato questo commento e sono Pavel
 #define BLOCK_SIZE   1024 
 
 #pragma warning ( disable: 4996 )
