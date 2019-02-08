@@ -5,7 +5,7 @@
 #define BLOCK_SIZE   1024 
 
 #pragma warning ( disable: 4996 )
-
+//Struct shared che contiene 3 variabili
 struct SHARED
 {
 	unsigned char buffer[BLOCK_SIZE];
